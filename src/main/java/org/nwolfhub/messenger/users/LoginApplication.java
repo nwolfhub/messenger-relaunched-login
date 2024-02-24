@@ -1,4 +1,4 @@
-package org.nwolfhub.messenger.login;
+package org.nwolfhub.messenger.users;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
